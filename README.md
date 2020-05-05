@@ -19,3 +19,9 @@ I think.
 
 ## Due Date
 Submit via Pull Request by Monday, May 1 @ 9AM
+
+// go over class comonents in react
+//Add a restart button
+// keep track of different steps in the game
+// maybe take a "snapshot" like snapshotArr = [...gameArr]
+
